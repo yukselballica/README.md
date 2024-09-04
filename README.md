@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yüksel Ballıca</h1>
 <h3 align="center">Flutter Developer</h3>
 
-<p align="left"> <a href="https://twitter.com/ruhumoflayn" target="blank"><img src="https://img.shields.io/twitter/follow/ruhumoflayn?logo=twitter&style=for-the-badge" alt="ruhumoflayn" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
